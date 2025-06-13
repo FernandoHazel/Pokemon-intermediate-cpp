@@ -3,17 +3,24 @@
 using namespace std;
 
 // Define an enum for Pokemon choices
-enum PokemonChoice {
+enum PokemonType {
     Charmander,
     Bulbasaur,
     Squirtle,
     InvalidChoice
 };
 
+class Pokemon {
+public:
+    string name;
+    PokemonType type;
+    int health;
+};
+
 int main() {
     // Variables to store player name and chosen Pokemon
     string player_name;
-    PokemonChoice chosen_pokemon = InvalidChoice; // Default to an invalid choice
+    PokemonType chosen_pokemon = InvalidChoice; // Default to an invalid choice
 
     // Introduction by the Professor
     cout << "Professor Oak: Hello there! Welcome to the world of Pokemon!\n";
