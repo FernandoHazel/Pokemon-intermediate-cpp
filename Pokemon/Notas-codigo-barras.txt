@@ -1,0 +1,14 @@
+- Cómo hacer un código de barras en iOS
+- Parametrizar la tarjeta que habilita esa opción
+- Validaciones "servicio no disponible" y demás
+- Guardar el código en local por si el usuario cierra la app (o guardarlo en base de datos) ¿dónde o quién va a almacenar ese código?
+- Expirar el código de barras ¿Cómo lo vamos a expirar? ¿De quién es la base dónde lo vamos a borrar o en la que vamos a marcarlo en false?
+
+Pago en tienda
+- Definir el monto que se va a pagar
+
+
+cisco
+telecomunicaciones
+chips
+foxconn
