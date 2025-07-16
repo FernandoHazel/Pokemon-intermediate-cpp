@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mx49983/Desktop/AAAPathway/Pokemon-intermediate-cpp/Pokemon",
+      "program": "/Users/mx49983/Desktop/AAAPathway/Pokemon-intermediate-cpp/Pokemon/build/Debug/outDebug"
+    }
+  ]
+}
